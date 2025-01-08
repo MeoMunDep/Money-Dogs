@@ -45,8 +45,7 @@ To get started with the bot, follow these steps:
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
   "doTasks": true,
-  "playGames": true,
-  "referralCode": "" // Do not change it if you want to support me ^^
+  "referralCode": "cqquYvYd"
 }
 ```
 
@@ -59,6 +58,9 @@ query_id.../user...
 ```
 
 ### 3. `wallets.txt` 💼 - Cannot update yet.
+
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
 
 ```txt - wallet address
 abc...xyz
@@ -78,6 +80,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd "money dogs-main"/"money dogs"; node bot`
+> To run the bot, use the following command: `cd "money dogs-main"/"money dogs"; node meomundep`
 
 🎇Enjoy!
